@@ -1,0 +1,9 @@
+{
+  "name": "ppi-proxy",
+  "version": "1.0.0",
+  "description": "Proxy para conectar dashboard a PPI API",
+  "main": "api/ppi-proxy.js",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
